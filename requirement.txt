@@ -1,7 +1,0 @@
-streamlit
-from datetime import date,datetime
-webbrowser
-pandas
-requests
-from bs4 import BeautifulSoup
-wikipediaapi
